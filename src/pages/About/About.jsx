@@ -24,13 +24,14 @@ export default function About() {
 
             <div className="relative space-y-4">
               <p className="text-white">
-                Hello! I'm Nazmul Hossain, a passionate JavaScript developer
-                specializing in creating innovative web solutions and
-                user-friendly interfaces.{" "}
+                Hello! I’m Tyler Welker, a detail-oriented and adaptable professional 
+                with a strong foundation in Full Stack Web Development and data management. 
+                {" "}
                 <span className="font-bold text-white">
-                  As the creator of the OlovaJS UI Framework
+                  I’m passionate about building efficient, user-friendly applications and 
+                supporting teams through accurate and organized data entry and backend 
+                operations.
                 </span>
-                , I'm dedicated to simplifying development workflows.
               </p>
               <p className="text-white">
                 My focus is on making web development faster, easier, and
