@@ -42,27 +42,23 @@ export default function About() {
 
               <div className="pt-6">
                 <blockquote className="border-l-4 border-gray-300 pl-4">
-                  <p className="text-white">
+                  {/* <p className="text-white">
                     I'm a lifelong learner and innovator, driven by a desire to
                     contribute to the developer community with new ideas and
                     tools that deliver real value. As the creator of OlovaJS,
                     I'm pushing the boundaries of JavaScript frameworks to
                     empower developers worldwide.
-                  </p>
+                  </p> */}
 
                   <div className="mt-6 space-y-3">
-                    <cite className="block font-medium text-white">
-                      Tyler Welker
-                    </cite>
                     <div className="flex items-center gap-2">
                       <img
                         className="h-5 w-fit"
                         src={TWLogo}
                         alt="TW Logo"
-                        height="20"
+                        height="130"
                         width="auto"
                       />
-                      <span className="text-white">OlovaJS</span>
                     </div>
                   </div>
                 </blockquote>
